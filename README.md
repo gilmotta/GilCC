@@ -10,4 +10,4 @@ and "errors" from other texts. GilCC was written to resolve this issue. Very han
 if you cannot upgrade your GCC version to the latest. 
 GilCC is open source so it is free to download under MIT license. Colorize GCC use GilCC.
 
-copyright (c) 2014 www.onlysolutionssoftware.com
+copyright (c) 2014 www.onlysolutionssoftware.com/gilcc
