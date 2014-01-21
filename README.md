@@ -11,3 +11,5 @@ if you cannot upgrade your GCC version to the latest.
 GilCC is open source so it is free to download under MIT license. Colorize GCC use GilCC.
 
 copyright (c) 2014 www.onlysolutionssoftware.com/gilcc
+
+![Oauth settings](https://github.com/gilmotta/GilCC/blob/master/gilCC01.png)
