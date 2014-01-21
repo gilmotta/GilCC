@@ -12,3 +12,6 @@ GilCC is open source so it is free to download under MIT license. Colorize GCC u
 
 copyright (c) 2014 www.onlysolutionssoftware.com/gilcc
 
+[contributions](https://help.github.com/articles/using-pull-requests) are welcome!
+----
+
