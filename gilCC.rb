@@ -89,7 +89,7 @@ time = Benchmark.realtime{
 		elsif str.downcase.include? "in function" 
 			puts
 			puts str.bold
-		elsif str.downcase.include? "error" 
+		elsif str.downcase.include? "error:" 
 			puts ("-" * str.length).colorize( :white ).colorize( :background => :red )
 			puts str.colorize( :white ).colorize( :background => :red )
 			puts ("-" * str.length).colorize( :white ).colorize( :background => :red )
